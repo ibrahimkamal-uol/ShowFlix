@@ -1,0 +1,1 @@
+<?php echo $name?> This Page is Accessed using TestController.
